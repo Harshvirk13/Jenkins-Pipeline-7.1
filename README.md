@@ -1,5 +1,3 @@
 # Jenkins-Pipeline-7.1
 
-My new Pipeline
-
-Updating the readme
+My update in jenkins build
